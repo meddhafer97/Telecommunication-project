@@ -3,11 +3,11 @@ The success of the Data Science project will notably be based on a clearly defin
 This implies having a clear vision of the future and being able to work on the basis 
 of realistic, clear short, medium and long term objectives.
 For our project, we will:
- Study customer satisfaction for the different services for each operator.
- Find out a segmentation that will help us to classify our customers (gender, 
+- Study customer satisfaction for the different services for each operator.
+- Find out a segmentation that will help us to classify our customers (gender, 
 region, number of employees…) and therefore target a group of people 
 during our future actions.
- Predict from customer emotions whether some customers will churn and 
+- Predict from customer emotions whether some customers will churn and 
 based on this prediction we can take our actions to avoid customer 
 dissatisfaction.
 
