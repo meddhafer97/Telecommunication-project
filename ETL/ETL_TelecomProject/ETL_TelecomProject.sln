@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ETL_TelecomProject", "ETL_TelecomProject\ETL_TelecomProject.dtproj", "{FAE48011-BC6B-4404-979A-4C49E23280B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAE48011-BC6B-4404-979A-4C49E23280B6}.Development|Default.ActiveCfg = Development
+		{FAE48011-BC6B-4404-979A-4C49E23280B6}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
